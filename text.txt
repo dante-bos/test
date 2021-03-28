@@ -1,1 +1,2 @@
 Hallo, dit is een file met wat tekst data.
+De eerste merge lijkt goed te gaan.
